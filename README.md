@@ -78,7 +78,6 @@ sudo apt install build-essential
 * [MySQL](https://hub.docker.com/_/mysql/)
 * [PHP-FPM](https://hub.docker.com/r/nanoninja/php-fpm/)
 * [Composer](https://hub.docker.com/_/composer/)
-* [PHPMyAdmin](https://hub.docker.com/r/phpmyadmin/phpmyadmin/)
 * [Generate Certificate](https://hub.docker.com/r/jacoelho/generate-certificate/)
 
 You should be careful when installing third party web servers such as MySQL or Nginx.
@@ -88,7 +87,6 @@ This project use the following ports :
 | Server     | Port |
 |------------|------|
 | MySQL      | 8989 |
-| PHPMyAdmin | 8080 |
 | Nginx      | 8000 |
 | Nginx SSL  | 3000 |
 
