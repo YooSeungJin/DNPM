@@ -14,25 +14,9 @@ https://github.com/nanoninja/docker-nginx-php-mysql 에서 분기되었습니다
 
     Github 저장소의 프로젝트 코드를 다운로드 합니다.
 
-3. [SSL 인증서 갱신](#SSL-인증서-갱신) [`Optional`]
+3. [어플리케이션 시작](#어플리케이션-시작)
 
-    SSL 인증서 갱신 ( 미지원 ) .
-
-4. [Configure Xdebug](#configure-xdebug) [`Optional`]
-
-    We'll configure Xdebug for IDE (PHPStorm or Netbeans).
-
-5. [Run the application](#run-the-application)
-
-    By this point we’ll have all the project pieces in place.
-
-6. [Use Makefile](#use-makefile) [`Optional`]
-
-    When developing, you can use `Makefile` for doing recurrent operations.
-
-7. [Use Docker Commands](#use-docker-commands)
-
-    When running, you can use docker commands for doing recurrent operations.
+    프로젝트 시작
 
 ___
 
